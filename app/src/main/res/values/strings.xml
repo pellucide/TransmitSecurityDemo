@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Transmit UI</string>
+    <string name="subhead">Subhead about this</string>
+    <string name="fingerprint_authenticator">Fingerprint authenticator</string>
+    <string name="use_fingerprint">Use fingerprint</string>
+    <string name="your_password_here">Your password here</string>
+    <string name="your_pincode_here">Your pincode here</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="try_something_else">Try Something Else</string>
+    <string name="authenticator_failed">Authenticator failed!</string>
+</resources>

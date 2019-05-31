@@ -1,0 +1,10 @@
+.gradle
+BuildNumber.java
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+/build
+.idea/
+*iml
+*.iml
+*/build
